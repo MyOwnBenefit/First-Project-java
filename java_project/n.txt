@@ -1,0 +1,6 @@
+User,112,kyhw
+Habit,113,30분걷기
+Checkin,114,2020.02.04
+Checkin,115,2020.03.05
+Habit,116,30초뛰기
+Checkin,117,2020.04.06
